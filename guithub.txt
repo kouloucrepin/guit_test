@@ -1,1 +1,13 @@
-process
+code minima
+******************************1***********************
+notre repositorie vient d'etre crée.suivre les etapes suivante
+
+
+1-git clone "lien du projet"
+2-cd nomdeapps
+2- git add .
+3-git branch (pour voir le nom de la branche sur laquelle on est actuellement)
+6-git push
+
+
+**************************************************************
